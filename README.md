@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Sylvia's Portfolio 
+This is my first major project for my course at Coderfactory Academy. This is basically a website about myself and my experience in coding.
 
-Things you may want to cover:
+### Installation
+To view my web page, go to http://www.sylviasportfolio.herokuapp.com
 
-* Ruby version
+### Design Process
 
-* System dependencies
+1. Identified the what the users want
+![screenshot](http://{User/Ben/desktop/trello.jpg})
 
-* Configuration
+2. Started to look for ideas and placed them into moodboard
 
-* Database creation
+3. Once I got an idea, I started to code. 
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
