@@ -9,7 +9,7 @@ To view my web page, go to http://www.sylviasportfolio.herokuapp.com
 ### Design Process
 
 1. Identified the what the users want
-![screenshot](http://{User/Ben/desktop/trello.jpg})
+![screenshot](trello.jpg)
 
 2. Started to look for ideas and placed them into moodboard
 
