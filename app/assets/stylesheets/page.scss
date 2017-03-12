@@ -1,0 +1,145 @@
+ @media screen and (min-width: 680px) {
+
+ body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+      width: 100%
+  }
+}
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+
+  img {
+    width: 45%;
+    height: auto;
+
+  }
+
+  .maintitle {
+    padding-top: 0;
+    margin-top: -180px;
+    margin-bottom: 100px;
+  }
+  .bg-1 { 
+      background-color: #1abc9c; /* Green */
+      color: #ffffff;
+
+  }
+
+  .bg-1 h3 {
+    padding-top: 80px;
+    font-size: 50px;
+    font-family: 'Special Elite', cursive;
+  }
+
+  .bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-3 h4 {
+    font-size: 30px;
+  }
+
+  /* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+    width: 50%; /* Full width */
+    background-color: #ddd; /* Grey background */
+}
+
+.skills {
+    text-align: right; /* Right-align text */
+    padding-right: 20px; /* Add some right padding */
+    line-height: 20px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    color: white; /* White text color */
+}
+
+.html {width: 90%; background-color: #4CAF50;} /* Green */
+.css {width: 80%; background-color: #2196F3;} /* Blue */
+.ruby {width: 50%; background-color: #f44336;} /* Red */
+.rails {width: 70%; background-color: #ffa536 }
+
+  .bg-4 { 
+      background-color: #c0c0c0; /* Black Gray */
+      color: #fff;
+      width: 100%;
+  }
+  .bg-5 {
+      background-color: black;
+      width: 100%
+  }
+
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 0px;
+      padding-bottom: 0px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+      display: inline;
+
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+      
+  }
+
+  .navbar-right {
+    list-style-type: none;
+    display: inline;
+
+  }
+
+  .maintitle {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 35px;
+  }
+
+  .margin-about {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 60px;
+  }
+
+  .margin-skills {
+    font-size: 60px;
+    font-family: 'Gloria Hallelujah', cursive;
+  }
+  
+  .margin-contact {
+    font-size: 30px;
+    color: black;
+  }
+
+  .container_form input {
+    color: black;
+  }
+
+  .bg-5 p {
+    float: right;
+  }
+
+  .links {
+    list-style-type: none;
+    float: left;
+  }
+
+  .col-sm-4 img {
+    width: 100%;
+  }
+
+  .navbar-brand img {
+    height: 150%;
+    width: auto;
+  }
